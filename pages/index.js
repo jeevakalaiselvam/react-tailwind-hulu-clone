@@ -5,7 +5,6 @@ import Results from '../components/Results';
 import requests from '../utils/requests';
 
 export default function Home({ results }) {
-    console.log(results);
     return (
         <div>
             <Head>
@@ -17,8 +16,9 @@ export default function Home({ results }) {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
-            <Header></Header>
+            <Header />
             <Nav />
+
             <Results results={results} />
         </div>
     );
