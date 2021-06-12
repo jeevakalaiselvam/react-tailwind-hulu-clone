@@ -10,6 +10,14 @@ Frameworks Used
 
 # Screenshots
 
+## High Resolution Displays
+
 ![Screenshot](screens/screen1.png)
+
+## Normal Displays
+
 ![Screenshot](screens/screen2.png)
+
+## Mobile Displays
+
 ![Screenshot](screens/screen3.png)
